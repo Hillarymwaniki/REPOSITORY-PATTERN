@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\CODING REPOS\\[1] - [C#]\\REPOSITORY PATTERN\\Patrick_God\\Patrick_God.csproj": {}
+    "E:\\CODING REPOS\\[1] - [C#]\\REPOSITORY PATTERN\\Movie_Repository_Pattern\\MOVIE_MANAGEMENT_API\\MovieManagementAPI\\MovieManagementAPI.csproj": {}
   },
   "projects": {
-    "e:\\CODING REPOS\\[1] - [C#]\\REPOSITORY PATTERN\\Patrick_God\\Patrick_God.csproj": {
+    "E:\\CODING REPOS\\[1] - [C#]\\REPOSITORY PATTERN\\Movie_Repository_Pattern\\MOVIE_MANAGEMENT_API\\MovieManagementAPI\\MovieManagementAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\CODING REPOS\\[1] - [C#]\\REPOSITORY PATTERN\\Patrick_God\\Patrick_God.csproj",
-        "projectName": "Patrick_God",
-        "projectPath": "e:\\CODING REPOS\\[1] - [C#]\\REPOSITORY PATTERN\\Patrick_God\\Patrick_God.csproj",
+        "projectUniqueName": "E:\\CODING REPOS\\[1] - [C#]\\REPOSITORY PATTERN\\Movie_Repository_Pattern\\MOVIE_MANAGEMENT_API\\MovieManagementAPI\\MovieManagementAPI.csproj",
+        "projectName": "MovieManagementAPI",
+        "projectPath": "E:\\CODING REPOS\\[1] - [C#]\\REPOSITORY PATTERN\\Movie_Repository_Pattern\\MOVIE_MANAGEMENT_API\\MovieManagementAPI\\MovieManagementAPI.csproj",
         "packagesPath": "C:\\Users\\HILLARY\\.nuget\\packages\\",
-        "outputPath": "e:\\CODING REPOS\\[1] - [C#]\\REPOSITORY PATTERN\\Patrick_God\\obj\\",
+        "outputPath": "E:\\CODING REPOS\\[1] - [C#]\\REPOSITORY PATTERN\\Movie_Repository_Pattern\\MOVIE_MANAGEMENT_API\\MovieManagementAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HILLARY\\AppData\\Roaming\\NuGet\\NuGet.Config"

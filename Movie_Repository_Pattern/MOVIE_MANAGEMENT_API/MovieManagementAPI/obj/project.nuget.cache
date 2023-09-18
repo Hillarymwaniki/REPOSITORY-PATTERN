@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DZLXjJ4hMqAVO5dL9pcXiR3VQ9AOsznNZBeSGXpTpvXraAuy5rCdOCV4T37Ou1BbYNAHiXLd2SmMdvrj50frbA==",
+  "dgSpecHash": "GcLmT8P+KqVqBtoubkwZ9Z28YQzFPtN9PnVCCRdWhHo0nxg3G2jhXCGhLktNH0bpMxvdlQ4B3qjLJc3QwrBzdQ==",
   "success": true,
-  "projectFilePath": "e:\\CODING REPOS\\[1] - [C#]\\REPOSITORY PATTERN\\Patrick_God\\Patrick_God.csproj",
+  "projectFilePath": "E:\\CODING REPOS\\[1] - [C#]\\REPOSITORY PATTERN\\Movie_Repository_Pattern\\MOVIE_MANAGEMENT_API\\MovieManagementAPI\\MovieManagementAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HILLARY\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.9\\microsoft.aspnetcore.openapi.7.0.9.nupkg.sha512",
     "C:\\Users\\HILLARY\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
