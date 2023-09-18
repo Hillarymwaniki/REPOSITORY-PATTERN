@@ -1,0 +1,3 @@
+# REPOSITORY-PATTERN
+
+The following repo is a follow along of a demonstration on how to implement the Repository Pattern using the default ASP.NET Core Web API Project...
