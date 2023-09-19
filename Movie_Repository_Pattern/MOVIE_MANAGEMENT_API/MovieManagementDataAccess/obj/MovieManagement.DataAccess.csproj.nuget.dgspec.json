@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CODING REPOS\\[1] - [C#]\\REPOSITORY PATTERN\\Movie_Repository_Pattern\\MOVIE_MANAGEMENT_API\\MovieManagement.DataAccess\\MovieManagement.DataAccess.csproj": {}
+    "E:\\CODING REPOS\\[1] - [C#]\\REPOSITORY PATTERN\\Movie_Repository_Pattern\\MOVIE_MANAGEMENT_API\\MovieManagementDataAccess\\MovieManagement.DataAccess.csproj": {}
   },
   "projects": {
-    "E:\\CODING REPOS\\[1] - [C#]\\REPOSITORY PATTERN\\Movie_Repository_Pattern\\MOVIE_MANAGEMENT_API\\MovieManagement.DataAccess\\MovieManagement.DataAccess.csproj": {
+    "E:\\CODING REPOS\\[1] - [C#]\\REPOSITORY PATTERN\\Movie_Repository_Pattern\\MOVIE_MANAGEMENT_API\\MovieManagementDataAccess\\MovieManagement.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CODING REPOS\\[1] - [C#]\\REPOSITORY PATTERN\\Movie_Repository_Pattern\\MOVIE_MANAGEMENT_API\\MovieManagement.DataAccess\\MovieManagement.DataAccess.csproj",
+        "projectUniqueName": "E:\\CODING REPOS\\[1] - [C#]\\REPOSITORY PATTERN\\Movie_Repository_Pattern\\MOVIE_MANAGEMENT_API\\MovieManagementDataAccess\\MovieManagement.DataAccess.csproj",
         "projectName": "MovieManagement.DataAccess",
-        "projectPath": "E:\\CODING REPOS\\[1] - [C#]\\REPOSITORY PATTERN\\Movie_Repository_Pattern\\MOVIE_MANAGEMENT_API\\MovieManagement.DataAccess\\MovieManagement.DataAccess.csproj",
+        "projectPath": "E:\\CODING REPOS\\[1] - [C#]\\REPOSITORY PATTERN\\Movie_Repository_Pattern\\MOVIE_MANAGEMENT_API\\MovieManagementDataAccess\\MovieManagement.DataAccess.csproj",
         "packagesPath": "C:\\Users\\HILLARY\\.nuget\\packages\\",
-        "outputPath": "E:\\CODING REPOS\\[1] - [C#]\\REPOSITORY PATTERN\\Movie_Repository_Pattern\\MOVIE_MANAGEMENT_API\\MovieManagement.DataAccess\\obj\\",
+        "outputPath": "E:\\CODING REPOS\\[1] - [C#]\\REPOSITORY PATTERN\\Movie_Repository_Pattern\\MOVIE_MANAGEMENT_API\\MovieManagementDataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HILLARY\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,6 +37,16 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
