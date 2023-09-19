@@ -1,0 +1,5 @@
+E:\CODING REPOS\[1] - [C#]\REPOSITORY PATTERN\Movie_Repository_Pattern\MOVIE_MANAGEMENT_API\MovieManagementDataAccess\obj\Debug\net7.0\MovieManagement.DataAccess.csproj.AssemblyReference.cache
+E:\CODING REPOS\[1] - [C#]\REPOSITORY PATTERN\Movie_Repository_Pattern\MOVIE_MANAGEMENT_API\MovieManagementDataAccess\obj\Debug\net7.0\MovieManagement.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\CODING REPOS\[1] - [C#]\REPOSITORY PATTERN\Movie_Repository_Pattern\MOVIE_MANAGEMENT_API\MovieManagementDataAccess\obj\Debug\net7.0\MovieManagement.DataAccess.AssemblyInfoInputs.cache
+E:\CODING REPOS\[1] - [C#]\REPOSITORY PATTERN\Movie_Repository_Pattern\MOVIE_MANAGEMENT_API\MovieManagementDataAccess\obj\Debug\net7.0\MovieManagement.DataAccess.AssemblyInfo.cs
+E:\CODING REPOS\[1] - [C#]\REPOSITORY PATTERN\Movie_Repository_Pattern\MOVIE_MANAGEMENT_API\MovieManagementDataAccess\obj\Debug\net7.0\MovieManagement.DataAccess.csproj.CoreCompileInputs.cache
