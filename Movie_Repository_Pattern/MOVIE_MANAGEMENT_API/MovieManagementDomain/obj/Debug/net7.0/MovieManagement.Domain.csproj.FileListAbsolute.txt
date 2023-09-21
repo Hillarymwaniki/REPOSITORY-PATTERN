@@ -1,0 +1,12 @@
+E:\CODING REPOS\[1] - [C#]\REPOSITORY PATTERN\Movie_Repository_Pattern\MOVIE_MANAGEMENT_API\MovieManagementDomain\bin\Debug\net7.0\MovieManagement.Domain.deps.json
+E:\CODING REPOS\[1] - [C#]\REPOSITORY PATTERN\Movie_Repository_Pattern\MOVIE_MANAGEMENT_API\MovieManagementDomain\bin\Debug\net7.0\MovieManagement.Domain.dll
+E:\CODING REPOS\[1] - [C#]\REPOSITORY PATTERN\Movie_Repository_Pattern\MOVIE_MANAGEMENT_API\MovieManagementDomain\bin\Debug\net7.0\MovieManagement.Domain.pdb
+E:\CODING REPOS\[1] - [C#]\REPOSITORY PATTERN\Movie_Repository_Pattern\MOVIE_MANAGEMENT_API\MovieManagementDomain\obj\Debug\net7.0\MovieManagement.Domain.csproj.AssemblyReference.cache
+E:\CODING REPOS\[1] - [C#]\REPOSITORY PATTERN\Movie_Repository_Pattern\MOVIE_MANAGEMENT_API\MovieManagementDomain\obj\Debug\net7.0\MovieManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\CODING REPOS\[1] - [C#]\REPOSITORY PATTERN\Movie_Repository_Pattern\MOVIE_MANAGEMENT_API\MovieManagementDomain\obj\Debug\net7.0\MovieManagement.Domain.AssemblyInfoInputs.cache
+E:\CODING REPOS\[1] - [C#]\REPOSITORY PATTERN\Movie_Repository_Pattern\MOVIE_MANAGEMENT_API\MovieManagementDomain\obj\Debug\net7.0\MovieManagement.Domain.AssemblyInfo.cs
+E:\CODING REPOS\[1] - [C#]\REPOSITORY PATTERN\Movie_Repository_Pattern\MOVIE_MANAGEMENT_API\MovieManagementDomain\obj\Debug\net7.0\MovieManagement.Domain.csproj.CoreCompileInputs.cache
+E:\CODING REPOS\[1] - [C#]\REPOSITORY PATTERN\Movie_Repository_Pattern\MOVIE_MANAGEMENT_API\MovieManagementDomain\obj\Debug\net7.0\MovieManagement.Domain.dll
+E:\CODING REPOS\[1] - [C#]\REPOSITORY PATTERN\Movie_Repository_Pattern\MOVIE_MANAGEMENT_API\MovieManagementDomain\obj\Debug\net7.0\refint\MovieManagement.Domain.dll
+E:\CODING REPOS\[1] - [C#]\REPOSITORY PATTERN\Movie_Repository_Pattern\MOVIE_MANAGEMENT_API\MovieManagementDomain\obj\Debug\net7.0\MovieManagement.Domain.pdb
+E:\CODING REPOS\[1] - [C#]\REPOSITORY PATTERN\Movie_Repository_Pattern\MOVIE_MANAGEMENT_API\MovieManagementDomain\obj\Debug\net7.0\ref\MovieManagement.Domain.dll
