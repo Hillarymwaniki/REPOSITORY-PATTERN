@@ -3,3 +3,15 @@ E:\CODING REPOS\[1] - [C#]\REPOSITORY PATTERN\Movie_Repository_Pattern\MOVIE_MAN
 E:\CODING REPOS\[1] - [C#]\REPOSITORY PATTERN\Movie_Repository_Pattern\MOVIE_MANAGEMENT_API\MovieManagementDataAccess\obj\Debug\net7.0\MovieManagement.DataAccess.AssemblyInfoInputs.cache
 E:\CODING REPOS\[1] - [C#]\REPOSITORY PATTERN\Movie_Repository_Pattern\MOVIE_MANAGEMENT_API\MovieManagementDataAccess\obj\Debug\net7.0\MovieManagement.DataAccess.AssemblyInfo.cs
 E:\CODING REPOS\[1] - [C#]\REPOSITORY PATTERN\Movie_Repository_Pattern\MOVIE_MANAGEMENT_API\MovieManagementDataAccess\obj\Debug\net7.0\MovieManagement.DataAccess.csproj.CoreCompileInputs.cache
+E:\CODING REPOS\[1] - [C#]\REPOSITORY PATTERN\Movie_Repository_Pattern\MOVIE_MANAGEMENT_API\MovieManagementDataAccess\bin\Debug\net7.0\MovieManagement.DataAccess.deps.json
+E:\CODING REPOS\[1] - [C#]\REPOSITORY PATTERN\Movie_Repository_Pattern\MOVIE_MANAGEMENT_API\MovieManagementDataAccess\bin\Debug\net7.0\MovieManagement.DataAccess.runtimeconfig.json
+E:\CODING REPOS\[1] - [C#]\REPOSITORY PATTERN\Movie_Repository_Pattern\MOVIE_MANAGEMENT_API\MovieManagementDataAccess\bin\Debug\net7.0\MovieManagement.DataAccess.dll
+E:\CODING REPOS\[1] - [C#]\REPOSITORY PATTERN\Movie_Repository_Pattern\MOVIE_MANAGEMENT_API\MovieManagementDataAccess\bin\Debug\net7.0\MovieManagement.DataAccess.pdb
+E:\CODING REPOS\[1] - [C#]\REPOSITORY PATTERN\Movie_Repository_Pattern\MOVIE_MANAGEMENT_API\MovieManagementDataAccess\bin\Debug\net7.0\MovieManagement.Domain.dll
+E:\CODING REPOS\[1] - [C#]\REPOSITORY PATTERN\Movie_Repository_Pattern\MOVIE_MANAGEMENT_API\MovieManagementDataAccess\bin\Debug\net7.0\MovieManagement.Domain.pdb
+E:\CODING REPOS\[1] - [C#]\REPOSITORY PATTERN\Movie_Repository_Pattern\MOVIE_MANAGEMENT_API\MovieManagementDataAccess\obj\Debug\net7.0\MovieManagement.DataAccess.csproj.CopyComplete
+E:\CODING REPOS\[1] - [C#]\REPOSITORY PATTERN\Movie_Repository_Pattern\MOVIE_MANAGEMENT_API\MovieManagementDataAccess\obj\Debug\net7.0\MovieManagement.DataAccess.dll
+E:\CODING REPOS\[1] - [C#]\REPOSITORY PATTERN\Movie_Repository_Pattern\MOVIE_MANAGEMENT_API\MovieManagementDataAccess\obj\Debug\net7.0\refint\MovieManagement.DataAccess.dll
+E:\CODING REPOS\[1] - [C#]\REPOSITORY PATTERN\Movie_Repository_Pattern\MOVIE_MANAGEMENT_API\MovieManagementDataAccess\obj\Debug\net7.0\MovieManagement.DataAccess.pdb
+E:\CODING REPOS\[1] - [C#]\REPOSITORY PATTERN\Movie_Repository_Pattern\MOVIE_MANAGEMENT_API\MovieManagementDataAccess\obj\Debug\net7.0\MovieManagement.DataAccess.genruntimeconfig.cache
+E:\CODING REPOS\[1] - [C#]\REPOSITORY PATTERN\Movie_Repository_Pattern\MOVIE_MANAGEMENT_API\MovieManagementDataAccess\obj\Debug\net7.0\ref\MovieManagement.DataAccess.dll

@@ -1,3 +1,6 @@
+using Microsoft.EntityFrameworkCore;
+using MovieManagementDataAccess.Context;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the dependency injection container.
@@ -9,6 +12,7 @@ builder.Services.AddSwaggerGen();
 
 // Add Entity Framework 
 builder.Services.AddDbContext<MovieManagementDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString( "MovieConnection")));
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

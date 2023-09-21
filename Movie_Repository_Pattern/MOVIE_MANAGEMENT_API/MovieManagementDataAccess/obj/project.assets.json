@@ -1053,6 +1053,16 @@
             "rid": "win"
           }
         }
+      },
+      "MovieManagement.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/MovieManagement.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MovieManagement.Domain.dll": {}
+        }
       }
     }
   },
@@ -2875,13 +2885,19 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "MovieManagement.Domain/1.0.0": {
+      "type": "project",
+      "path": "../MovieManagementDomain/MovieManagement.Domain.csproj",
+      "msbuildProject": "../MovieManagementDomain/MovieManagement.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
       "Microsoft.EntityFrameworkCore >= 7.0.11",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.11",
-      "Microsoft.EntityFrameworkCore.Tools >= 7.0.11"
+      "Microsoft.EntityFrameworkCore.Tools >= 7.0.11",
+      "MovieManagement.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -2908,7 +2924,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\CODING REPOS\\[1] - [C#]\\REPOSITORY PATTERN\\Movie_Repository_Pattern\\MOVIE_MANAGEMENT_API\\MovieManagementDomain\\MovieManagement.Domain.csproj": {
+              "projectPath": "E:\\CODING REPOS\\[1] - [C#]\\REPOSITORY PATTERN\\Movie_Repository_Pattern\\MOVIE_MANAGEMENT_API\\MovieManagementDomain\\MovieManagement.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

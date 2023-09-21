@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t+VaiS+91GPHBFjwMe66H//kDeIzi49ho7QFnZ81y+RkOlsSYsX3YQKDuUx5ksofC0KQsIye4nzBPeqkklcqbg==",
+  "dgSpecHash": "crZfmpnXokmWY+gtNAM1jQ5Q8NAntzxNfE4ffxnMVHEdyWfTgm0oMEqq2C1X/nTcRAORhsYfGHHCWdn1q+NJXg==",
   "success": true,
-  "projectFilePath": "E:\\CODING REPOS\\[1] - [C#]\\REPOSITORY PATTERN\\Movie_Repository_Pattern\\MOVIE_MANAGEMENT_API\\MovieManagement.Domain\\MovieManagement.Domain.csproj",
+  "projectFilePath": "E:\\CODING REPOS\\[1] - [C#]\\REPOSITORY PATTERN\\Movie_Repository_Pattern\\MOVIE_MANAGEMENT_API\\MovieManagementDomain\\MovieManagement.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

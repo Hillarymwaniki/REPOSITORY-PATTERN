@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CODING REPOS\\[1] - [C#]\\REPOSITORY PATTERN\\Movie_Repository_Pattern\\MOVIE_MANAGEMENT_API\\MovieManagement.Domain\\MovieManagement.Domain.csproj": {}
+    "E:\\CODING REPOS\\[1] - [C#]\\REPOSITORY PATTERN\\Movie_Repository_Pattern\\MOVIE_MANAGEMENT_API\\MovieManagementDomain\\MovieManagement.Domain.csproj": {}
   },
   "projects": {
-    "E:\\CODING REPOS\\[1] - [C#]\\REPOSITORY PATTERN\\Movie_Repository_Pattern\\MOVIE_MANAGEMENT_API\\MovieManagement.Domain\\MovieManagement.Domain.csproj": {
+    "E:\\CODING REPOS\\[1] - [C#]\\REPOSITORY PATTERN\\Movie_Repository_Pattern\\MOVIE_MANAGEMENT_API\\MovieManagementDomain\\MovieManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CODING REPOS\\[1] - [C#]\\REPOSITORY PATTERN\\Movie_Repository_Pattern\\MOVIE_MANAGEMENT_API\\MovieManagement.Domain\\MovieManagement.Domain.csproj",
+        "projectUniqueName": "E:\\CODING REPOS\\[1] - [C#]\\REPOSITORY PATTERN\\Movie_Repository_Pattern\\MOVIE_MANAGEMENT_API\\MovieManagementDomain\\MovieManagement.Domain.csproj",
         "projectName": "MovieManagement.Domain",
-        "projectPath": "E:\\CODING REPOS\\[1] - [C#]\\REPOSITORY PATTERN\\Movie_Repository_Pattern\\MOVIE_MANAGEMENT_API\\MovieManagement.Domain\\MovieManagement.Domain.csproj",
+        "projectPath": "E:\\CODING REPOS\\[1] - [C#]\\REPOSITORY PATTERN\\Movie_Repository_Pattern\\MOVIE_MANAGEMENT_API\\MovieManagementDomain\\MovieManagement.Domain.csproj",
         "packagesPath": "C:\\Users\\HILLARY\\.nuget\\packages\\",
-        "outputPath": "E:\\CODING REPOS\\[1] - [C#]\\REPOSITORY PATTERN\\Movie_Repository_Pattern\\MOVIE_MANAGEMENT_API\\MovieManagement.Domain\\obj\\",
+        "outputPath": "E:\\CODING REPOS\\[1] - [C#]\\REPOSITORY PATTERN\\Movie_Repository_Pattern\\MOVIE_MANAGEMENT_API\\MovieManagementDomain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HILLARY\\AppData\\Roaming\\NuGet\\NuGet.Config"
